@@ -16,7 +16,7 @@ const Footer = () => {
                             </div>
                             <div>
                                 <p className="text-sm text-slate-50">
-                                    &copy; Copyright 2023. All Rights Reserved by DevUI.
+                                    &copy; Copyright 2024. All Rights Reserved by BlogBloom.
                                 </p>
                             </div>
                         </div>
